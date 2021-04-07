@@ -1,6 +1,6 @@
 # html-task
 
-# Prmaod sir suggestions
+# Pramod sir suggestions
 
 Design only the header again - Done
 
