@@ -9,11 +9,9 @@
 }
 .header {
   display: flex;
-  /* justify-content: space-between; */
 }
 .menu-container {
   display: flex;
-  /* justify-content: space-evenly; */
   flex-grow: 1;
 }
 .menu {
